@@ -24,7 +24,7 @@ cp .env.example .env.local   # then fill in your real API keys
 npm run dev
 ```
 
-Open http://localhost:3000
+Open  http://192.168.181.86:3000/
 
 ## Getting your keys
 
