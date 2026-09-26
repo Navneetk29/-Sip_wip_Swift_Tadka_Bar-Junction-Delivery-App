@@ -1,0 +1,12 @@
+node_modules/
+.env
+.DS_Store
+tsconfig.tsbuildinfo
+
+.next/
+.DS_Store
+node_modules/
+tsconfig.tsbuildinfo
+.env
+
+tsconfig.tsbuildinfo
