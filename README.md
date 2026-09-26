@@ -1,5 +1,3 @@
-# -Sip_Wip_Swift_Tadka_Bar-Junction-Delivery-App
-Full-stack food &amp; beverage delivery app for browsing menus, placing orders, cart management, and seamless delivery tracking.
 # SipSwift — Customer Web App
 
 Premium multi-vendor alcohol + snacks + restaurant delivery web app. Next.js 15 / React 19 / TypeScript / Tailwind, black-and-gold "pour" themed UI, with real integration wiring for Firebase Auth, Razorpay, Stripe, and Google Maps.
